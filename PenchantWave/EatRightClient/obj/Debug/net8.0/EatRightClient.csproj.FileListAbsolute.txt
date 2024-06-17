@@ -1,0 +1,14 @@
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\bin\Debug\net8.0\EatRightClient.exe
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\bin\Debug\net8.0\EatRightClient.deps.json
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\bin\Debug\net8.0\EatRightClient.runtimeconfig.json
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\bin\Debug\net8.0\EatRightClient.dll
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\bin\Debug\net8.0\EatRightClient.pdb
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.AssemblyInfoInputs.cache
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.AssemblyInfo.cs
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.csproj.CoreCompileInputs.cache
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.dll
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\refint\EatRightClient.dll
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.pdb
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\EatRightClient.genruntimeconfig.cache
+C:\Users\fikem\Documents\Create\PenchantWave\EatRightClient\obj\Debug\net8.0\ref\EatRightClient.dll
